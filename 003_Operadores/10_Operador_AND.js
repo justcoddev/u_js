@@ -6,4 +6,4 @@ if (a >= valMin && a <= valMax) {
   console.log("Fuera de rango")
 
 }
-// v v = v: si alguna es falso, todo es falso
+// v v = v: si todos son true, va true
